@@ -1,0 +1,96 @@
+.tooltip3 {
+    background: #eee;
+    box-shadow: 0 0 5px #999999;
+    color: #333;
+    display: none;
+    font-size: 14px;
+    left: 130px;
+    padding: 5px;
+    position: absolute;
+    text-align: center;
+    top: 95px;
+    width: 80px;
+    border: 5px;
+    border-radius: 8px;
+    z-index: 10;
+}
+
+div.tooltip4 {
+    position: absolute;
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    padding: 5px;
+    font: 12px sans-serif;
+    background: rgb(252, 204, 213);
+    border: 5px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+
+pre {
+    width: 1700;
+    height: 700px;
+    margin: 6px 12px;
+	left: 300px;
+    tab-size: 40;
+    font-size: 10px;
+    overflow: auto;
+}
+
+#chart {
+    height: 360px;
+    position: relative;
+    width: 360px;
+}
+
+.legend {
+    font-size: 12px;
+}
+
+#piechart {
+    position: absolute;
+    top: 660px;
+    left: 300px;
+    height: 460px;
+    width: 510px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+#barchart {
+    position: absolute;
+    top: 660px;
+    left: 820px;
+    height: 400px;
+    width: 700px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+#linechart {
+    position: absolute;
+    top: 200px;
+    left: 820px;
+    height: 450px;
+    width: 830px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+#geo-map {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    height: 450px;
+    width: 500px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+}
+
+#container {
+    padding-top: 50px;
+    padding-left: 200px;
+    height: 1800px;
+    width: 1500px;
+}

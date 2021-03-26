@@ -1,0 +1,31 @@
+﻿province,confirmed cases,recovered cases,F0 (quarantined),F0(social),F1,Fn,Region
+Hà Nội,114,113,50,6,7,51,North
+Hồ Chí Minh,59,55,33,6,4,16,South
+Thái Bình,30,15,0,0,0,0,North
+Bạc Liêu,21,21,21,0,0,0,South
+Vĩnh Phúc,19,19,7,5,6,1,North
+Ninh Bình,13,13,12,0,0,1,North
+Bình Thuận,9,9,0,1,8,0,Central
+Quảng Ninh,8,8,3,5,0,0,North
+Đà Nẵng,6,6,3,2,1,0,Central
+Đồng Tháp,5,5,5,0,0,0,South
+Bắc Giang,4,4,4,0,0,0,North
+Hà Nam,4,4,0,0,0,4,North
+Hà Tĩnh,4,4,4,0,0,0,Central
+Hải Dương,4,3,4,0,0,0,North
+Tây Ninh,4,4,4,0,0,0,South
+Quảng Nam,3,3,0,3,0,0,Central
+Thanh Hóa,3,3,2,1,0,0,North
+Cần Thơ,2,2,2,0,0,0,South
+Lào Cai,2,2,0,2,0,0,North
+Ninh Thuận,2,2,0,1,1,0,Central
+Thừa Thiên-Huế,2,2,0,1,1,0,Central
+Trà Vinh,2,2,2,0,0,0,South
+Bắc Ninh,1,1,1,0,0,0,North
+Bến Tre,1,1,1,0,0,0,South
+Đồng Nai,1,1,0,0,0,1,South
+Hà Giang,1,1,0,0,0,1,North
+Hưng Yên,1,1,0,0,0,1,North
+Khánh Hòa,1,1,0,0,1,0,Central
+Lai Châu,1,1,0,0,0,1,North
+Thái Nguyên,1,1,0,0,0,1,North
